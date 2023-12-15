@@ -56,7 +56,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
- ![](https://github.com/olegstrigunov/DB/screanshot/1.png)
+ ![](https://github.com/olegstrigunov/DB/blob/main/screanshot/1.png)
 
 ---
 
@@ -66,7 +66,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
- ![](https://github.com/olegstrigunov/DB/screanshot/2.png)
+ ![](https://github.com/olegstrigunov/DB/blob/main/screanshot/2.png))
 
 ---
 
@@ -76,7 +76,7 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
- ![](https://github.com/olegstrigunov/DB/screanshot/3.png)
+ ![](https://github.com/olegstrigunov/DB/blob/main/screanshot/3.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
