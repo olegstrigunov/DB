@@ -56,6 +56,8 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/1.png)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
@@ -64,6 +66,8 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/2.png)
+
 ---
 
 ### Задание 4. Запись данных в Redis
@@ -71,6 +75,8 @@
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+
+ ![](https://github.com/olegstrigunov/zabbix_2/blob/main/screans/3.png)
 
 
 ## Дополнительные задания (со звёздочкой*)
