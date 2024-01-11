@@ -46,6 +46,9 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/22.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/23.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/24.png)
 ---
 
 ### Задание 3. Подготовка HA кластера
@@ -81,6 +84,13 @@ $ rabbitmqadmin get queue='hello'
 
 *Приложите скриншот результата работы второго скрипта.*
 
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/25.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/26.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/27.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/28.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/15.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/16.png)
+![](https://github.com/olegstrigunov/DB/blob/main/screanshot/29.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
