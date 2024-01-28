@@ -33,10 +33,11 @@ where date(p.payment_date) = '2005-07-30' and p.payment_date = r.rental_date and
 - оптимизируйте запрос: внесите корректировки по использованию операторов, при необходимости добавьте индексы.
 
 
-  Происходит сканирование таблиц inventory, rental и film, которые не нужны для подсчета.
-![Скриншот-3](https://github.com/olegstrigunov/DB/blob/main/screanshot/52.png)
+  Таблица film здесь лишняя и ни на что не влияет. Также произведена индексация payment_date.
+  CREATE INDEX payday ON payment(payment_date);
+![Скриншот-3](https://github.com/olegstrigunov/DB/blob/main/screanshot/54.png)
 
-![Скриншот-3](https://github.com/olegstrigunov/DB/blob/main/screanshot/53.png)
+![Скриншот-3](https://github.com/olegstrigunov/DB/blob/main/screanshot/55.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
